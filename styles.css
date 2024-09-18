@@ -164,6 +164,11 @@ body {
         }
     }
 
+    
+    .et-home {
+        display: none
+    }
+
     .planet {
         position: absolute;
         border-radius: 100%;
